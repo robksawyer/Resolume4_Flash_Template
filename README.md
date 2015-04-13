@@ -2,6 +2,10 @@
 
 This repo contains a base template for creating Flash Actionscript 3.0 based plugins for Resolume 4. The purpose of this is to help you get crackin' on building amazing plugins quicker.
 
+# Testing
+
+To test your Flash creation it's simple, just drag the swf into an open clip slot inside of Resolume. A good way to stay organized would be to just create a folder for all of your Flash based creations and save it as a favorite in the Resolume file browser.
+
 # Resources
 
 [Read the Manual (Most info was pulled from this.)](https://resolume.com/manual/en/r4/generative)
